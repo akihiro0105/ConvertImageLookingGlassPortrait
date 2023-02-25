@@ -1,5 +1,6 @@
 # ConvertImageLookingGlassPortrait
 - 画像+深度画像からLookingGlassPortrait用の画像or動画を生成するスクリプト
+- 生成された画像、動画は Looking Glass Studio で読み込み可能
 
 # 深度画像の準備
 - https://huggingface.co/spaces/nielsr/dpt-depth-estimation
