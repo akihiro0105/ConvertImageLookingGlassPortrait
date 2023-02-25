@@ -13,6 +13,6 @@
 
 # 実行
 ## 画像
-- 'python concat_side.py <画像> <深度画像>'
+- `python concat_side.py <画像> <深度画像>`
 ## 動画
-- 'python image2video.py <画像> <深度画像>'
+- `python image2video.py <画像> <深度画像>`
