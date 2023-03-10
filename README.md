@@ -5,6 +5,7 @@
 # 深度画像の準備
 - https://huggingface.co/spaces/nielsr/dpt-depth-estimation
 - https://huggingface.co/spaces/akhaliq/DPT-Large
+- https://huggingface.co/spaces/shariqfarooq/ZoeDepth
 
 # 実行環境
 - Windows 11
