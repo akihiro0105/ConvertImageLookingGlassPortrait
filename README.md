@@ -3,6 +3,7 @@
 - 生成された画像、動画は Looking Glass Studio で読み込み可能
 
 # 深度画像の準備
+- https://huggingface.co/spaces/skytnt/anime-remove-background
 - https://huggingface.co/spaces/nielsr/dpt-depth-estimation
 - https://huggingface.co/spaces/akhaliq/DPT-Large
 - https://huggingface.co/spaces/shariqfarooq/ZoeDepth
